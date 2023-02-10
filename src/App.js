@@ -1,14 +1,19 @@
-import './App.css';
 
-import MainHeader from './components/MainHeader';
-import MainProduct from './components/product/MainProduct';
+import MainHeader from "./components/MainHeader";
+import MainProduct from "./components/product/MainProduct";
+import DetailsProvider from "./context/DetailsProvider";
+
+
+
+
 function App() {
   return (
     <>
-       <MainHeader/>
-       <MainProduct/>
+        <DetailsProvider>
+        <MainHeader />
+        <MainProduct />
+        </DetailsProvider>
     </>
-    
   );
 }
 
