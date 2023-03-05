@@ -1,25 +1,25 @@
 {
   "files": {
-    "main.css": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/css/main.7309182f.css",
-    "main.js": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/js/main.7760e1f1.js",
-    "static/js/787.dc6f746b.chunk.js": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/js/787.dc6f746b.chunk.js",
-    "static/media/image-product-2.jpg": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
-    "static/media/image-product-1.jpg": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
-    "static/media/image-product-3.jpg": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
-    "static/media/image-product-4.jpg": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
-    "static/media/logo.svg": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
-    "index.html": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/index.html",
-    "static/media/icon-cart.svg": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
-    "static/media/icon-close.svg": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/media/icon-close.c390448669f3a8a4c4b2ada2f9938959.svg",
-    "static/media/iconMenu.svg": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/media/iconMenu.c6107d03f1edcf73523ebd8cbc50a443.svg",
-    "static/media/icon-previous.svg": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/media/icon-previous.80616402c611cc0a6651d0b751da8a9b.svg",
-    "static/media/icon-next.svg": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/media/icon-next.9621183a551a9985b4bd7536c9a69c66.svg",
-    "main.7309182f.css.map": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/css/main.7309182f.css.map",
-    "main.7760e1f1.js.map": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/js/main.7760e1f1.js.map",
-    "787.dc6f746b.chunk.js.map": "/Desaf-o-frontend-Menetor-E-commerce-product-page-tailwind-react.github.io/static/js/787.dc6f746b.chunk.js.map"
+    "main.css": "/E-Commerce-Tailwind-React/static/css/main.7309182f.css",
+    "main.js": "/E-Commerce-Tailwind-React/static/js/main.44a6c213.js",
+    "static/js/787.dc6f746b.chunk.js": "/E-Commerce-Tailwind-React/static/js/787.dc6f746b.chunk.js",
+    "static/media/image-product-2.jpg": "/E-Commerce-Tailwind-React/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
+    "static/media/image-product-1.jpg": "/E-Commerce-Tailwind-React/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
+    "static/media/image-product-3.jpg": "/E-Commerce-Tailwind-React/static/media/image-product-3.af5c71ba9ffcc0b8b54d.jpg",
+    "static/media/image-product-4.jpg": "/E-Commerce-Tailwind-React/static/media/image-product-4.9962862ef3eff6d65e5b.jpg",
+    "static/media/logo.svg": "/E-Commerce-Tailwind-React/static/media/logo.4fe9c1e86cf9bf600f0c239f6a6e5317.svg",
+    "index.html": "/E-Commerce-Tailwind-React/index.html",
+    "static/media/icon-cart.svg": "/E-Commerce-Tailwind-React/static/media/icon-cart.539ec608f50e707c94d583ec11acf99d.svg",
+    "static/media/icon-close.svg": "/E-Commerce-Tailwind-React/static/media/icon-close.c390448669f3a8a4c4b2ada2f9938959.svg",
+    "static/media/iconMenu.svg": "/E-Commerce-Tailwind-React/static/media/iconMenu.c6107d03f1edcf73523ebd8cbc50a443.svg",
+    "static/media/icon-previous.svg": "/E-Commerce-Tailwind-React/static/media/icon-previous.80616402c611cc0a6651d0b751da8a9b.svg",
+    "static/media/icon-next.svg": "/E-Commerce-Tailwind-React/static/media/icon-next.9621183a551a9985b4bd7536c9a69c66.svg",
+    "main.7309182f.css.map": "/E-Commerce-Tailwind-React/static/css/main.7309182f.css.map",
+    "main.44a6c213.js.map": "/E-Commerce-Tailwind-React/static/js/main.44a6c213.js.map",
+    "787.dc6f746b.chunk.js.map": "/E-Commerce-Tailwind-React/static/js/787.dc6f746b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7309182f.css",
-    "static/js/main.7760e1f1.js"
+    "static/js/main.44a6c213.js"
   ]
 }
