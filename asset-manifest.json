@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/E-Commerce-Tailwind-React/static/css/main.7309182f.css",
-    "main.js": "/E-Commerce-Tailwind-React/static/js/main.44a6c213.js",
+    "main.js": "/E-Commerce-Tailwind-React/static/js/main.92ce8fe0.js",
     "static/js/787.dc6f746b.chunk.js": "/E-Commerce-Tailwind-React/static/js/787.dc6f746b.chunk.js",
     "static/media/image-product-2.jpg": "/E-Commerce-Tailwind-React/static/media/image-product-2.c8bb0aaccecdebb16596.jpg",
     "static/media/image-product-1.jpg": "/E-Commerce-Tailwind-React/static/media/image-product-1.520cc50bd13955f55cb2.jpg",
@@ -15,11 +15,11 @@
     "static/media/icon-previous.svg": "/E-Commerce-Tailwind-React/static/media/icon-previous.80616402c611cc0a6651d0b751da8a9b.svg",
     "static/media/icon-next.svg": "/E-Commerce-Tailwind-React/static/media/icon-next.9621183a551a9985b4bd7536c9a69c66.svg",
     "main.7309182f.css.map": "/E-Commerce-Tailwind-React/static/css/main.7309182f.css.map",
-    "main.44a6c213.js.map": "/E-Commerce-Tailwind-React/static/js/main.44a6c213.js.map",
+    "main.92ce8fe0.js.map": "/E-Commerce-Tailwind-React/static/js/main.92ce8fe0.js.map",
     "787.dc6f746b.chunk.js.map": "/E-Commerce-Tailwind-React/static/js/787.dc6f746b.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.7309182f.css",
-    "static/js/main.44a6c213.js"
+    "static/js/main.92ce8fe0.js"
   ]
 }
