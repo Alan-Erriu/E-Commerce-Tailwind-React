@@ -1,5 +1,5 @@
 # E-COMMERCE Desafío Frontend Mentor
-El sitio lo cree con React.js, Para el carro de compras implemente un useState y useContex.
+El sitio lo cree con React.js. Para el carro de compras implemente useState y useContex.
 Para el css implemente Tailwindcss
 
 ## ➡ Link al sitio: https://alan-erriu.github.io/E-Commerce-Tailwind-React/
